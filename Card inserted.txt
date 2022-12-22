@@ -1,0 +1,5 @@
+2022-11-28 02:56:33.07 zka - MainLoop.cpp (1047): Card inserted
+2022-11-28 02:56:33.15 zka - FSM.cpp (839): Card inserted
+2022-11-28 02:56:51.74 zka - MainLoop.cpp (1047): Card inserted
+2022-11-28 02:56:53.36 zka - MainLoop.cpp (1047): Card inserted
+2022-11-28 02:57:06.45 zka - MainLoop.cpp (1047): Card inserted

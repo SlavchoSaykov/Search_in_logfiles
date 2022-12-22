@@ -1,0 +1,60 @@
+2022-11-28 02:56:33.07 zka - MainLoop.cpp (1047): Card inserted
+2022-11-28 02:56:33.11 zka - MainLoop.cpp (3211): Number of pending autovoids:0
+2022-11-28 02:56:33.15 zka - FSM.cpp (839): Card inserted
+2022-11-28 02:56:33.21 zka - CheckPinPadStatus.cpp (169): PP State = secAppMode:03; status:05; PPSN:01500817; TrmID:74057462
+2022-11-28 02:56:33.39 zka - Transaction.cpp (2300): Tx. Amount:1
+2022-11-28 02:56:33.44 zka - StorageLastschrift.cpp (462): Possible Lastschrift:8
+2022-11-28 02:56:33.46 zka - TlvUtils.cpp (76): Element not parsed. tag: 0; result: 3
+2022-11-28 02:56:33.65 ERROR: zka - FSM.cpp (757): Received error message (code: 0000040A; source: Emv.c::emv_close_f(); description: Cold ATR failed
+2022-11-28 02:56:33.66 ERROR: zka - TechnologySelectCRTDS.cpp (1530): Chip Error or Timeout
+2022-11-28 02:56:34.09 zkaecr - FSMEcr.cpp (903): ECR command:06C0
+2022-11-28 02:56:35.87 zka - TechnologySelectCRTDS.cpp (2028): Card removed
+2022-11-28 02:56:37.41 zka - Transaction.cpp (7490): Track2:704310
+2022-11-28 02:56:37.41 zka - Transaction.cpp (7513): Track3:A70431001043
+2022-11-28 02:56:37.6 zka - GdaCertUtils.cpp (350): Card ID:E0C484C7FC76EAC0ABD288E44BD07FC6
+2022-11-28 02:56:37.66 zkaecr - FSMEcr.cpp (1178): ECR PT APDU:040F
+2022-11-28 02:56:44.02 zkaecr - FSMEcr.cpp (903): ECR command:06C0
+2022-11-28 02:56:44.08 zkaecr - FSMEcr.cpp (1178): ECR PT APDU:040F
+2022-11-28 02:56:48.24 zkaecr - FSMEcr.cpp (903): ECR command:06B0
+2022-11-28 02:56:48.32 ERROR: zka - Field.cpp (303): Adding field without value:518
+2022-11-28 02:56:48.34 TRANSACTION_ABORTED
+
+2022-11-28 02:56:51.74 zka - MainLoop.cpp (1047): Card inserted
+2022-11-28 02:56:51.77 zka - MainLoop.cpp (3211): Number of pending autovoids:0
+2022-11-28 02:56:51.84 zka - CheckPinPadStatus.cpp (169): PP State = secAppMode:03; status:05; PPSN:01500817; TrmID:74057462
+2022-11-28 02:56:52.09 zka - Transaction.cpp (2300): Tx. Amount:1
+2022-11-28 02:56:52.14 zka - StorageLastschrift.cpp (462): Possible Lastschrift:8
+2022-11-28 02:56:52.16 zka - TlvUtils.cpp (76): Element not parsed. tag: 0; result: 3
+2022-11-28 02:56:52.36 ERROR: zka - FSM.cpp (757): Received error message (code: 0000040A; source: Emv.c::emv_close_f(); description: Cold ATR failed
+2022-11-28 02:56:52.36 ERROR: zka - TechnologySelectCRTDS.cpp (1530): Chip Error or Timeout
+2022-11-28 02:56:52.41 zkaecr - FSMEcr.cpp (903): ECR command:06B0
+2022-11-28 02:56:52.49 ERROR: zka - TechnologySelectCRTDS.cpp (2787): Exiting technology select due to ECR abort
+2022-11-28 02:56:52.51 zka - TopLevelFSM.cpp (140): Not supported event 903:
+2022-11-28 02:56:53.36 zka - MainLoop.cpp (1047): Card inserted
+2022-11-28 02:56:55.88 zka - FSM.cpp (851): Card removed
+2022-11-28 02:56:56.97 zka - Transaction.cpp (2300): Tx. Amount:8000
+2022-11-28 02:56:57.03 zka - TlvUtils.cpp (76): Element not parsed. tag: 0; result: 3
+2022-11-28 02:56:57.15 zka - ContactlessRunning.cpp (1124): Emvrf request: 21; status: 2
+2022-11-28 02:56:58.42 zkaecr - FSMEcr.cpp (903): ECR command:06B0
+2022-11-28 02:56:59.9 zka - Transaction.cpp (2300): Tx. Amount:8000
+2022-11-28 02:56:59.96 zka - TlvUtils.cpp (76): Element not parsed. tag: 0; result: 3
+2022-11-28 02:57:00.09 zka - ContactlessRunning.cpp (1124): Emvrf request: 21; status: 2
+2022-11-28 02:57:06.45 zka - MainLoop.cpp (1047): Card inserted
+2022-11-28 02:57:06.49 zka - MainLoop.cpp (3211): Number of pending autovoids:0
+2022-11-28 02:57:06.54 zka - CheckPinPadStatus.cpp (169): PP State = secAppMode:03; status:05; PPSN:01500817; TrmID:74057462
+2022-11-28 02:57:06.6 zkaecr - FSMEcr.cpp (903): ECR command:06C0
+2022-11-28 02:57:06.73 zka - Transaction.cpp (2300): Tx. Amount:1
+2022-11-28 02:57:06.78 zka - StorageLastschrift.cpp (462): Possible Lastschrift:8
+2022-11-28 02:57:06.8 zka - TlvUtils.cpp (76): Element not parsed. tag: 0; result: 3
+2022-11-28 02:57:06.99 ERROR: zka - FSM.cpp (757): Received error message (code: 0000040A; source: Emv.c::emv_close_f(); description: Cold ATR failed
+2022-11-28 02:57:07.0 ERROR: zka - TechnologySelectCRTDS.cpp (1530): Chip Error or Timeout
+2022-11-28 02:57:08.93 zka - TechnologySelectCRTDS.cpp (2028): Card removed
+2022-11-28 02:57:10.46 zka - Transaction.cpp (7490): Track2:704310
+2022-11-28 02:57:10.47 zka - Transaction.cpp (7513): Track3:A70431001043
+2022-11-28 02:57:10.59 zka - GdaCertUtils.cpp (350): Card ID:E0C484C7FC76EAC0ABD288E44BD07FC6
+2022-11-28 02:57:10.65 zkaecr - FSMEcr.cpp (1178): ECR PT APDU:040F
+2022-11-28 02:57:25.39 zkaecr - FSMEcr.cpp (903): ECR command:06B0
+2022-11-28 02:57:25.46 ERROR: zka - Field.cpp (303): Adding field without value:518
+2022-11-28 02:57:25.46 TRANSACTION_ABORTED
+
+

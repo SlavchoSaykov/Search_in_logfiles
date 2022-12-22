@@ -1,0 +1,4 @@
+2022-11-20 18:54:31.51 zka - TechnologySelectCRTDS.cpp (2546): Aborted
+2022-11-20 18:54:31.59 ERROR: zka - ContactlessRunning.cpp (877): Contactless transaction result: Aborted
+2022-11-21 17:35:55.59 zka - TechnologySelectCRTDS.cpp (2546): Aborted
+2022-11-21 17:35:55.71 ERROR: zka - ContactlessRunning.cpp (877): Contactless transaction result: Aborted
